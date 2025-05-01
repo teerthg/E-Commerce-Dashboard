@@ -32,3 +32,8 @@ This project builds an end-to-end sales dashboard for an E-Commerce business usi
 - Power BI Desktop
 - DAX Measures
 
+- ## Contact Information:
+- Email: teerth.gupta@example.com
+- LinkedIn: [Teerth Gupta](https://www.linkedin.com/in/teerthgupta/)
+
+
