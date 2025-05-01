@@ -33,7 +33,8 @@ This project builds an end-to-end sales dashboard for an E-Commerce business usi
 - DAX Measures
 
 - ## Contact Information:
-- Email: teerth.gupta@example.com
-- LinkedIn: [Teerth Gupta](https://www.linkedin.com/in/teerthgupta/)
+Email: teerthgupta19@gmail.com
+LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
+Name-Teerth Gupta
 
 
