@@ -3,27 +3,27 @@
 
 This project builds an end-to-end sales dashboard for an E-Commerce business using Power BI.
 
-## 🚀 Dataset Overview
+##  Dataset Overview
 
 - Source: Online Retail Dataset (UCI Machine Learning Repository)
 - 45,000+ transaction lines
 - Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 - Created "TotalPrice" = Quantity × UnitPrice
 
-## 🎯 KPIs Built
+##  KPIs Built
 
 - Total Sales
 - Total Orders
 - Average Order Value (AOV)
 
-## 📈 Visualizations
+##  Visualizations
 
 - Monthly Revenue Trend (Line Chart)
 - Top 10 Products by Sales (Bar Chart)
 - Sales by Country (Map)
 - Top Customers Table
 
-## 📸 Dashboard Screenshot
+##  Dashboard Screenshot
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
 
