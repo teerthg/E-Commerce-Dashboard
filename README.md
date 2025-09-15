@@ -1,5 +1,5 @@
 # E-Commerce-Dashboard
-# E-Commerce Sales Dashboard 📈
+# E-Commerce Sales Dashboard 
 
 This project builds an end-to-end sales dashboard for an E-Commerce business using Power BI.
 
